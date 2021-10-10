@@ -17,7 +17,7 @@ THEN I can save my initials and my score
 
 How to play
 
-Click the start quiz button. A timer will begin to run and you have 150 seconds to answer 12 questions total. There are a series of questions along with multiple choice answers to choose from. When the question is answered it will show if the question was answered correctly or not. Either when all the questions or answer or when the timer hits zero the game will then be over. Then the user can enter their initials to submit there score. Where then there is a list of high scores or the option to clear it out. The go back button will allow the user to play again.
+Click the start quiz button. A timer will begin to run and you have 150 seconds to answer 12 questions total. There are a series of questions along with multiple choice answers to choose from. When the question is answered it will show if the question was answered correctly or not. Either when all the questions are answered or when the timer hits zero the game will then be over. Then the user can enter their initials to submit there score. Where then there is a list of high scores or the option to clear it out. The go back button will allow the user to play again.
 
 Screenshot
 ![CodeQuizChallengeScreenshot](https://user-images.githubusercontent.com/89947774/136677052-af807a87-aeae-4e55-8a8b-cd9d017c987e.png)
