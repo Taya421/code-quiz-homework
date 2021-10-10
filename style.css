@@ -1,1 +1,48 @@
+body {
+    background-color: darkgray; 
+}
 
+h1, 
+h2 {
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #450aa5;
+    font-family: 'Archivo', sans-serif; 
+}
+
+a:hover {
+    color: #000000;
+    font-family: 'Archivo', sans-serif;
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #3c5268;
+}
+
+#finalScore {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Archivo', sans-serif;
+}
+
+p {
+    font-family: 'Archivo', sans-serif;
+}
+
+#questionTitle {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #4D5159;
+}
